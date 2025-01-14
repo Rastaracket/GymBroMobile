@@ -1,0 +1,98 @@
+{
+  "Categories": [
+    {
+      "Category": "Brust",
+      "Subcategories": [
+        {
+          "Name": "Obere Brust",
+          "Exercises": [
+            {
+              "Name": "Schrägbankdrücken (mit Kurzhanteln oder Langhantel)",
+              "Description": "Lege dich auf eine Schrägbank (ca. 30-45° Neigung). Halte die Hanteln auf Brusthöhe mit den Handflächen nach vorne. Drücke die Hanteln kontrolliert nach oben, bis die Arme fast gestreckt sind. Senke die Hanteln langsam wieder ab."
+            }
+          ]
+        },
+        {
+          "Name": "Mittlere Brust",
+          "Exercises": [
+            {
+              "Name": "Flachbankdrücken (mit Langhantel oder Kurzhanteln)",
+              "Description": "Lege dich auf eine Flachbank. Halte die Hantelstange mit schulterbreitem Griff. Senke die Hantel langsam bis knapp über die Brust ab. Drücke die Hantel kontrolliert nach oben, bis die Arme gestreckt sind."
+            },
+            {
+              "Name": "Kabel-Crossover (am Kabelzug)",
+              "Description": "Stelle dich zwischen zwei Kabelzüge und greife die Griffe. Ziehe die Griffe mit leicht angewinkelten Armen vor der Brust zusammen. Kehre langsam in die Ausgangsposition zurück."
+            }
+          ]
+        },
+        {
+          "Name": "Untere Brust",
+          "Exercises": [
+            {
+              "Name": "Dips",
+              "Description": "Stütze dich an zwei parallelen Stangen ab. Beuge die Knie und lehne den Oberkörper leicht nach vorne. Senke den Körper langsam ab, bis die Arme einen 90°-Winkel bilden. Drücke dich wieder nach oben, ohne die Ellbogen durchzudrücken."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Category": "Bauch",
+      "Exercises": [
+        {
+          "Name": "Crunches",
+          "Description": "Lege dich mit angewinkelten Beinen auf den Rücken. Platziere die Hände hinter den Ohren (nicht am Nacken ziehen). Hebe den Oberkörper langsam an, ohne den unteren Rücken anzuheben. Senke den Oberkörper langsam ab, ohne ihn komplett abzulegen."
+        },
+        {
+          "Name": "Russian Twists (mit Gewicht)",
+          "Description": "Setze dich hin, hebe die Füße an und neige den Oberkörper leicht nach hinten. Drehe den Oberkörper abwechselnd nach links und rechts."
+        },
+        {
+          "Name": "Plank (Unterarmstütz)",
+          "Description": "Stütze dich auf die Unterarme und die Zehen. Halte den Körper gerade und spanne Bauch und Po an."
+        }
+      ]
+    },
+    {
+      "Category": "Nacken",
+      "Exercises": [
+        {
+          "Name": "Shrugs (mit Kurzhanteln oder Langhantel)",
+          "Description": "Stehe aufrecht und halte eine Hantel in jeder Hand. Ziehe die Schultern so hoch wie möglich nach oben. Halte die Position kurz und lasse die Schultern wieder langsam nach unten."
+        }
+      ]
+    },
+    {
+      "Category": "Schultern",
+      "Subcategories": [
+        {
+          "Name": "Vordere Schultern",
+          "Exercises": [
+            {
+              "Name": "Schulterdrücken (mit Langhantel oder Kurzhanteln)",
+              "Description": "Halte die Hantelstange oder Kurzhanteln auf Schulterhöhe. Drücke die Hanteln nach oben, bis die Arme gestreckt sind. Senke die Hanteln langsam wieder auf Schulterhöhe ab."
+            }
+          ]
+        },
+        {
+          "Name": "Seitliche Schultern",
+          "Exercises": [
+            {
+              "Name": "Seitheben (mit Kurzhanteln)",
+              "Description": "Halte eine Kurzhantel in jeder Hand. Hebe die Arme seitlich bis auf Schulterhöhe an. Senke die Hanteln langsam ab."
+            }
+          ]
+        },
+        {
+          "Name": "Hintere Schultern",
+          "Exercises": [
+            {
+              "Name": "Frontheben (mit Kurzhantel oder Gewichtsscheibe)",
+              "Description": "Halte eine Hantel oder eine Gewichtsscheibe vor dir. Hebe die Arme nach vorne, bis sie auf Schulterhöhe sind. Senke die Arme langsam wieder ab."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
